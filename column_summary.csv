@@ -1,0 +1,6 @@
+,dtype,missing_count,unique_count
+Store ID ,int64,0,896
+Store_Area,int64,0,583
+Items_Available,int64,0,616
+Daily_Customer_Count,int64,0,130
+Store_Sales,int64,0,816
