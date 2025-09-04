@@ -44,4 +44,4 @@ The goal is to uncover meaningful business insights using **visualizations** and
 ## How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn reportlab nbformat
-python EDA_Stores_notebook.py
+python EDA_Stores_notebook.ipynb
