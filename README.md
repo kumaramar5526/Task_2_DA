@@ -45,19 +45,3 @@ The goal is to uncover meaningful business insights using **visualizations** and
 ```bash
 pip install pandas numpy matplotlib seaborn reportlab nbformat
 python EDA_Stores_notebook.py
-
-Output Files
-
-EDA_Report.pdf → PDF report with analysis & plots
-
-EDA_Stores_notebook.ipynb → Interactive notebook
-
-column_summary.csv → Column details
-
-numeric_describe.csv → Numeric summary statistics
-
-categorical_describe.csv → Categorical summary statistics
-
-short_summary.txt → Quick facts
-
-Stores_clean_shallow.csv → Light-clean dataset
